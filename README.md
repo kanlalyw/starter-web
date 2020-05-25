@@ -8,3 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 okdkdkdk
+ 
+
+ ##copyRight
+
+ 2014 Kanly
