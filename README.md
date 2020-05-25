@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
+
+Please Fork Thies repostirury
 ## Introduction
 Sample website with plenty of files for demos
 
